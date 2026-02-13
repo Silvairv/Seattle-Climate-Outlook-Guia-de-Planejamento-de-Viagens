@@ -1,6 +1,8 @@
 # Seattle-Climate-Outlook-Guia-de-Planejamento-de-Viagens
 Instruir as pessoas que procuram os meses ideais para viajar para Seattle, baseando-se no equilíbrio entre temperaturas agradáveis e períodos com menor incidência de chuva.
 
+<img width="1103" height="623" alt="Captura de tela 2026-02-12 230457" src="https://github.com/user-attachments/assets/3bd511e5-4df3-415d-86aa-2a001819cc5f" />
+
 Este projeto de Business Intelligence foi desenvolvido para auxiliar viajantes e turistas a identificarem as melhores janelas de oportunidade para visitar Seattle, Washington. Através da análise de dados históricos, o dashboard oferece uma visão clara sobre temperatura, precipitação e ventos.
 
 🎯 Objetivo
